@@ -1,4 +1,9 @@
+const path = require('path')
+
 module.exports = {
-    title: 'Assembly Dimensional',
-    description: 'Just rolling well...'
+    title: 'Dimensional Guide',
+    description: 'Just rolling well...',
+    alias: {
+        '/components/' : path.resolve(__dirname, '../.vitepress/components')
+    }
 }
