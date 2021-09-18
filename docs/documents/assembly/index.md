@@ -1,1 +1,0 @@
-#Hi Fitting Assembly
