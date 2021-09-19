@@ -1,12 +1,11 @@
 ---
 home: true
-
 heroImage: https://vuejs.org/images/logo.png
-heroText: Hero Title
-tagline: Hero subtitle
+heroText: Dimensional
+tagline: Component, Assemblies and etc.
 actions:
   - text: Get Started
-    link: /documents/pipe.html
+    link: /documents/components
     type: primary
 features:
   - title: Simplicity First
