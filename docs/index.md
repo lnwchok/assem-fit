@@ -5,7 +5,7 @@ heroText: Dimensional
 tagline: Component, Assemblies and etc.
 actions:
   - text: Get Started
-    link: /documents/components
+    link: /documents/components/
     type: primary
 features:
   - title: Simplicity First

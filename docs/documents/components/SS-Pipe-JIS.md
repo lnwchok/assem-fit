@@ -1,8 +1,8 @@
 ---
 title: Piping Component
 prev:
-    text: JIS G3452
-    link: g3452.html
+    text: JIS Carbon Pipe
+    link: CS-Pipe-JIS.html
 next: false
 ---
 
