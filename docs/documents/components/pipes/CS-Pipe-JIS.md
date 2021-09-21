@@ -2,10 +2,10 @@
 title: Piping Component
 prev:
     text: ASME Stainless Pipe
-    link: /documents/components/SS-Pipe.html
+    link: /documents/components/pipes/SS-Pipe.html
 next:
     text: JIS Stainless Pipe
-    link: /documents/components/SS-Pipe-JIS.html
+    link: /documents/components/pipes/SS-Pipe-JIS.html
 ---
 
 

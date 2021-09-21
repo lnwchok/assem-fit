@@ -2,7 +2,7 @@
 title: Piping Component
 prev:
     text: JIS Carbon Pipe
-    link: CS-Pipe-JIS.html
+    link: /documents/components/pipes/CS-Pipe-JIS.html
 next: false
 ---
 

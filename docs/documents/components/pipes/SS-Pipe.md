@@ -2,10 +2,10 @@
 title: Piping Component
 prev:
     text: ASME Carbon Pipe
-    link: /documents/components/CS-Pipe.html
+    link: /documents/components/pipes/CS-Pipe.html
 next:
     text: JIS Carbon Pipe
-    link: /documents/components/CS-Pipe-JIS.html
+    link: /documents/components/pipes/CS-Pipe-JIS.html
 ---
 
 ### SS Pipe - ASME Standard

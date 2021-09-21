@@ -2,10 +2,10 @@
 title: Piping Component
 prev:
     text: Pipe Component
-    link: index.html
+    link: /documents/components/pipes/index.html
 next:
     text: ASME Stainless Pipe
-    link: SS-Pipe.html
+    link: /documents/components/pipes/SS-Pipe.html
 ---
 
 ### CS Pipe - ASME Standard
