@@ -1,12 +1,13 @@
 ---
 title: Piping Component
-prev: false
-next: false
+# prev: false
+# next: false
 ---
 
 # Piping component :bone:
 
 ## Pipe
+
 
 This document Pipe dimension are according to:
 
@@ -21,6 +22,9 @@ This document Pipe dimension are according to:
 - OD = Outside Diameter (mm).
 - wt = Unit weight (kg/m). The below value are based on material Carbon Steel with SCH40 for ASME pipe and SGP for JIS pipe.
 :::
+
+
+![Pipe Drawing](../../../.vuepress/public/images/pipe.png)
 
 | NPS | ASME <br /> OD | <br /> wt | JIS <br /> OD | <br /> wt |
 | ---------- | :------------: | :-------: | :-----------: | :-------: |

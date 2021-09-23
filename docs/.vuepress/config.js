@@ -1,7 +1,9 @@
-module.exports = {
+
+var mainConfig = {
   lang: 'en-US',
   title: 'RuRa',
   description: 'This is dimension for piping component',
+  plugins: ['@vuepress/register-components'],
   themeConfig: {
     logoDark: '/images/ruler-light.png',
     logo: '/images/ruler.png',
@@ -34,4 +36,8 @@ module.exports = {
       ]
     }
   }
+
 }
+
+
+module.exports = mainConfig
