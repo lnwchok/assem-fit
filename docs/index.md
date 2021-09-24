@@ -1,18 +1,17 @@
 ---
 home: true
-heroImage: https://vuejs.org/images/logo.png
+heroImage: /.vitepress/public/images/ruler.png
+heroAlt: Logo
 heroText: R u R a
 tagline: Component, Assemblies and etc.
-actions:
-  - text: Get Started
-    link: /documents/components/pipes/pipe.html
-    type: primary
+actionText: Get Started
+actionLink: /components/pipes/pipe.html
 features:
   - title: Component Dimension
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
+    details: Give you the component dimension in accordance with ASTM, JIS or other international standard.
   - title: Assemblies Dimension
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
+    details: Useful to find the minimum distance when we need to create a new piping route or modify an existing one.
   - title: Extra
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+    details: Vary information or data to support your job!!!
 footer: MIT Licensed | Copyright © 2021-present Sitthichok
 ---
