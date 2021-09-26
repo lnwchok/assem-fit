@@ -3,12 +3,13 @@ title: Piping Component
 ---
 
 # Pipe
-This document Pipe dimension are according to:
+Pipe dimension is described the outside diameter (OD), thickness and unit weight (wt) in accordance with ASME and JIS standard.
 
-- ASTM B36.10M Welded and Seamless Wrought Steel Pipe
-- ASTM B36.19M Stainless Steel Pipe
-- JIS G3452 Carbon steel pipes for ordinary piping
-- JIS G3459 Stainless steel pipes
+![Pipe Drawing](../.vitepress/images/pipe.png)
+
+**Contents** :speech_balloon:
+
+[[toc]]
 
 ## Quick Comparison :eyes:
 
@@ -17,7 +18,6 @@ This document Pipe dimension are according to:
 - wt = Unit weight (kg/m). The below value are based on material Carbon Steel with SCH40 for ASME pipe and SGP for JIS pipe.
 :::
 
-<myImage source="../../.vitepress/public/images/pipe.png" alt="Test" />
 
 
 | NPS | ASME <br /> OD | <br /> wt | JIS <br /> OD | <br /> wt |

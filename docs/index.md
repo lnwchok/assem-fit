@@ -1,11 +1,11 @@
 ---
 home: true
-heroImage: /.vitepress/public/images/ruler.png
+heroImage: /.vitepress/images/ruler.png
 heroAlt: Logo
 heroText: R u R a
 tagline: Component, Assemblies and etc.
 actionText: Get Started
-actionLink: /components/pipes/pipe.html
+actionLink: /components/pipe
 features:
   - title: Component Dimension
     details: Give you the component dimension in accordance with ASTM, JIS or other international standard.
