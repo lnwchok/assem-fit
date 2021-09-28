@@ -16,7 +16,7 @@ function getComponentSidebar() {
       text: 'Piping Component',
       children: [
         { text: 'Pipe', link: '/components/pipe' },
-        { text: 'Socket Welding Fitting', link: '/components/swfitting '},
+        { text: 'SW Fitting', link: '/components/swfitting'},
         { text: 'Thread Fitting', link: '/components/threadfitting' },
         { text: 'BW Fitting', link: '/components/bwfitting' },
         { text: 'Flange', link: '/components/flange' }
