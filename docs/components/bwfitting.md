@@ -4,7 +4,9 @@ title: Piping Component
 
 # Butt Welding Fitting
 
-## 90LR/SR Elbow, 45LR Elbow, Straight Tee and Cap
+## 90LR/SR Elbow, 45LR Elbow and Straight Tee
+
+![BW-Fitting-1](../.vitepress/images/elb-bw.png)
 
 | NPS   | PIPE-OD | ELB-A | EKB-A | ESB-A | TT-C | TT-M | KA-E |
 |-------|---------|-------|-------|-------|------|------|------|
@@ -42,7 +44,17 @@ title: Piping Component
 | 46    | 1168.4  | 1753  | 727   |       | 851  | 800  | 343  |
 | 48    | 1219.2  | 1829  | 759   |       | 889  | 838  | 343  |
 
+## Stub end and Cap
+
+::: tip Note
+:tada: The dimension of stub-end are in accordance with MSS SP-43 type A
+:::
+
+![BW-Fitting-2](../.vitepress/images/fit-bw.png)
+
 ## Reducing Tee and Reducer
+
+![BW-Fitting-3](../.vitepress/images/tee-bw.png)
 
 | NPS           | TR-C | TR-M | RC-H |  | NPS     | TR-C | TR-M | RC-H |
 |---------------|------|------|------|--|---------|------|------|------|
