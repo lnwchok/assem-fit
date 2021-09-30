@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/',
     lang: 'en-US',
     title: 'R u R a',
     description: 'Just playing around.',
