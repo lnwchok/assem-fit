@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ./.vitepress/images/ruler.png
+heroImage: ../.vitepress/images/ruler.png
 heroAlt: Logo
 heroText: R u R a
 tagline: Component, Assemblies and etc.
