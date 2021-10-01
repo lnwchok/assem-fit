@@ -5,22 +5,21 @@ module.exports = {
     description: 'Just playing around.',
     themeConfig: {
       sidebar: {
-        '/components/': getComponentSidebar()
+        '/': getComponentSidebar()
       }
     }
 }
-
 
 function getComponentSidebar() {
   return [
     {
       text: 'Piping Component',
       children: [
-        { text: 'Pipe', link: '/components/pipe' },
-        { text: 'SW Fitting', link: '/components/swfitting'},
-        { text: 'Thread Fitting', link: '/components/threadfitting' },
-        { text: 'BW Fitting', link: '/components/bwfitting' },
-        { text: 'Flange', link: '/components/flange' }
+        { text: 'Pipe', link: '/' },
+        { text: 'SW Fitting', link: '/swfitting'},
+        { text: 'Thread Fitting', link: '/threadfitting' },
+        { text: 'BW Fitting', link: '/bwfitting' },
+        { text: 'Flange', link: '/flange' }
       ]
     }
   ]
