@@ -6,7 +6,7 @@ title: Piping Component
 
 ## 90LR/SR Elbow, 45LR Elbow and Straight Tee
 
-![BW-Fitting-1](../.vitepress/images/elb-bw.png)
+![BW-Fitting-1](.vitepress/images/elb-bw.png)
 
 | NPS   | PIPE-OD | ELB-A | EKB-A | ESB-A | TT-C | TT-M | KA-E |
 |-------|---------|-------|-------|-------|------|------|------|
@@ -50,11 +50,11 @@ title: Piping Component
 :tada: The dimension of stub-end are in accordance with MSS SP-43 type A
 :::
 
-![BW-Fitting-2](../.vitepress/images/fit-bw.png)
+![BW-Fitting-2](.vitepress/images/fit-bw.png)
 
 ## Reducing Tee and Reducer
 
-![BW-Fitting-3](../.vitepress/images/tee-bw.png)
+![BW-Fitting-3](.vitepress/images/tee-bw.png)
 
 | NPS           | TR-C | TR-M | RC-H |  | NPS     | TR-C | TR-M | RC-H |
 |---------------|------|------|------|--|---------|------|------|------|

@@ -6,7 +6,7 @@ title: Piping Component
 
 ## 90 Elbow, 45 Elbow and Tee
 
-![SW-Fitting-1](../.vitepress/images/elb-sw.png)
+![SW-Fitting-1](.vitepress/images/elb-sw.png)
 
 **CLASS 3000**
 | NPS   | O    | B    | D    | J    | A    | L    | A    | L    | A    | L    |
@@ -39,7 +39,7 @@ title: Piping Component
 
 ## Coupling, Half Coupling and Cap
 
-![SW-Fitting-2](../.vitepress/images/cplg-sw.png)
+![SW-Fitting-2](.vitepress/images/cplg-sw.png)
 
 **CLASS 3000**
 | NPS   | O    | B    | D    | J    | A    | L    | A    | L    | L    |
@@ -72,7 +72,7 @@ title: Piping Component
 
 ## Reducing Tee and Reducer
 
-![SW-Fitting-3](../.vitepress/images/redtee-sw.png)
+![SW-Fitting-3](.vitepress/images/redtee-sw.png)
 
 **CLASS 3000**
 | NPS         | O    | B    | B1   | D    | D1   | J    | A    | L    | E    | L    |

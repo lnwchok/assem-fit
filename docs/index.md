@@ -5,7 +5,7 @@ title: Piping Component
 # Pipe
 Pipe dimension is described the outside diameter (OD), thickness and unit weight (wt) in accordance with ASME and JIS standard.
 
-![Pipe Drawing](../.vitepress/images/pipe.png)
+![Pipe Drawing](.vitepress/images/pipe.png)
 
 **Contents** :speech_balloon:
 
