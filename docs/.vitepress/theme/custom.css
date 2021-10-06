@@ -1,6 +1,9 @@
+h2 {
+    margin-top: 4rem;
+}
 table {
     font-size: smaller;
-    margin-left: 20px;
+    overflow-x: visible;
 }
 tbody > tr:hover {background-color: rgb(0, 255, 115);}
 .table-of-contents {

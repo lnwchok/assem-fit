@@ -8,6 +8,10 @@ title: Piping Component
 
 ![THD-Fitting-1](.vitepress/images/elb-thd.png)
 
+::: tip Note 
+   All unit dimension are millimeter in accordance with ASME B16.11.
+:::
+
 **CLASS 3000**
 | NPS   | H   | D   | A   | C  | W   | P  | G1    | G2   | B    | L2   |
 |-------|-----|-----|-----|----|-----|----|-------|------|------|------|
@@ -38,6 +42,10 @@ title: Piping Component
 ## Reducing Tee and Reducer
 
 ![THD-Fitting-2](.vitepress/images/redtee-thd.png)
+
+::: tip Note 
+   All unit dimension are millimeter in accordance with ASME B16.11.
+:::
 
 **CLASS 3000**
 | NPS           | H   | O   | A   | W   | B    | C    | E    | F    | G1    |

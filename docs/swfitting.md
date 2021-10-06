@@ -8,6 +8,10 @@ title: Piping Component
 
 ![SW-Fitting-1](.vitepress/images/elb-sw.png)
 
+::: tip Note 
+   All unit dimension are millimeter in accordance with ASME B16.11.
+:::
+
 **CLASS 3000**
 | NPS   | O    | B    | D    | J    | A    | L    | A    | L    | A    | L    |
 |-------|------|------|------|------|------|------|------|------|------|------|
@@ -41,6 +45,10 @@ title: Piping Component
 
 ![SW-Fitting-2](.vitepress/images/cplg-sw.png)
 
+::: tip Note 
+   All unit dimension are millimeter in accordance with ASME B16.11.
+:::
+
 **CLASS 3000**
 | NPS   | O    | B    | D    | J    | A    | L    | A    | L    | L    |
 |-------|------|------|------|------|------|------|------|------|------|
@@ -73,6 +81,10 @@ title: Piping Component
 ## Reducing Tee and Reducer
 
 ![SW-Fitting-3](.vitepress/images/redtee-sw.png)
+
+::: tip Note 
+   All unit dimension are millimeter in accordance with ASME B16.11.
+:::
 
 **CLASS 3000**
 | NPS         | O    | B    | B1   | D    | D1   | J    | A    | L    | E    | L    |

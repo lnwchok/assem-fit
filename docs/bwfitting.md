@@ -47,7 +47,7 @@ title: Piping Component
 ## Stub end and Cap
 
 ::: tip Note
-:tada: The dimension of stub-end are in accordance with MSS SP-43 type A
+:tada: Stub-end, the dimension are in accordance with MSS SP-43 type A. Also facing thickness (_t_) is similar with stub-end thickness.
 :::
 
 ![BW-Fitting-2](.vitepress/images/fit-bw.png)
