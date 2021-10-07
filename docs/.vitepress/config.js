@@ -1,21 +1,5 @@
-module.exports = {
-    base: '/',
-    lang: 'en-US',
-    title: 'R u R a',
-    description: 'Just playing around.',
-    themeConfig: {
-      repo: 'lnwchok/assem-fit',
-      sidebar: {
-        '/': getComponentSidebar()
-      },
-      nav: [
-        { text: 'Component', link: '/', activeMatch: '^/$|^/'}
-      ]
-    }
-}
-
-function getComponentSidebar() {
-  return [
+const mySidebar = {
+  ComponentPage : [
     {
       text: 'Piping Component',
       children: [
@@ -28,4 +12,22 @@ function getComponentSidebar() {
       ]
     }
   ]
+}
+
+const myNav = [
+  { text: 'Component', link: '/', activeMatch: '^/$|^/'}
+]
+
+module.exports = {
+    base: '/',
+    lang: 'en-US',
+    title: 'R u R a',
+    description: 'Just playing around.',
+    themeConfig: {
+      repo: 'lnwchok/assem-fit',
+      sidebar: {
+        '/': mySidebar.ComponentPage
+      },
+      nav: myNav
+    }
 }
