@@ -13,5 +13,8 @@
   "repository": "https://github.com/lnwchok/assem-fit.git",
   "author": "Sitthichok <sitthichok.punlabpho@gmail.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.23.0",
+    "xlsx": "^0.17.3"
+  }
 }

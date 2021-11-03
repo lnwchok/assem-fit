@@ -6,6 +6,9 @@ table {
     overflow-x: visible;
 }
 tbody > tr:hover {background-color: rgb(0, 255, 115);}
+/* tbody > td {
+    word-wrap: break-word;
+} */
 .table-of-contents {
     margin-left: 2rem;
     margin-bottom: 4rem;
@@ -13,4 +16,8 @@ tbody > tr:hover {background-color: rgb(0, 255, 115);}
 img {
     display: block;
     margin: 50px auto;
+}
+hr {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
 }
