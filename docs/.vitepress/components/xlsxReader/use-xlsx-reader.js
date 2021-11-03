@@ -3,7 +3,7 @@ import axios from "axios";
 import { ref } from "vue";
 import tblRange from "./mapRange.js";
 
-const url = "/.vitepress/components/xlsxReader/db.xlsx";
+const url = "/db.xlsx";
 
 export default function (table) {
   const dataTable = ref([]);
