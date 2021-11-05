@@ -34,7 +34,18 @@ const tblRange = {
   FLG_RJ_1500: { sheet: "FLG", range: "P88:AB104" },
   FLG_RF_2500: { sheet: "FLG", range: "A109:N121" },
   FLG_RJ_2500: { sheet: "FLG", range: "P88:AB103" },
-  Test: { sheet: "Sheet3" }
+  BOLT_RF_150: { sheet: "BOLT", range: "A3:F21" },
+  BOLT_RF_300: { sheet: "BOLT", range: "H3:M21" },
+  BOLT_LRF_150: { sheet: "BOLT", range: "O3:T21" },
+  BOLT_LRF_300: { sheet: "BOLT", range: "W3:AB21" },
+  GKT_FF: { sheet: "GKT", range: "A3:F21" },
+  GKT_RF_150: { sheet: "GKT", range: "H3:N21" },
+  GKT_LRF_150: { sheet: "GKT", range: "P3:V21" },
+  JIS_FLG_05: { sheet: "JIS-FLG", range: "A3:P23" },
+  JIS_FLG_10: { sheet: "JIS-FLG", range: "A27:P47" },
+  JIS_FLG_16: { sheet: "JIS-FLG", range: "A51:P71" },
+  JIS_GKT: { sheet: "JIS-GKT", range: "A3:G23" },
+  
 };
 
 export default tblRange;

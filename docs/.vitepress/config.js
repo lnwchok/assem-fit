@@ -1,20 +1,5 @@
-const mySidebar = {
-   ComponentPage: [
-      {
-         text: 'Piping Component',
-         children: [
-            { text: 'Pipe', link: '/' },
-            { text: 'SW Fitting', link: '/swfitting' },
-            { text: 'Thread Fitting', link: '/threadfitting' },
-            { text: 'BW Fitting', link: '/bwfitting' },
-            { text: 'Flange', link: '/flange' },
-            { text: 'Larged Size Flange', link: '/flange-lg' }
-         ]
-      }
-   ]
-}
-
-const myNav = [{ text: 'Component', link: '/', activeMatch: '^/$|^/' }]
+const { sidebar } = require('./config/sidebar')
+const { nav } = require('./config/navbar')
 
 module.exports = {
    base: '/',
@@ -23,9 +8,7 @@ module.exports = {
    description: 'Just playing around.',
    themeConfig: {
       repo: 'lnwchok/assem-fit',
-      sidebar: {
-         '/': mySidebar.ComponentPage
-      },
-      nav: myNav
+      sidebar,
+      nav
    }
 }

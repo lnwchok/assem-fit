@@ -8,9 +8,9 @@ The fitting dimension are described in accordance with ASME B16.11, that consist
 
 [[toc]]
 
-## Elbow and Tee
+## :bow_and_arrow: Elbow and Tee
 
-![SW-Fitting-1](.vitepress/images/elb-sw.png)
+![SW-Fitting-1](../.vitepress/images/elb-sw.png)
 
 ::: tip Note 
    All unit dimension are millimeter in accordance with ASME B16.11.
@@ -27,9 +27,9 @@ The fitting dimension are described in accordance with ASME B16.11, that consist
 
 <hr />
 
-## Coupling, Half Coupling and Cap
+## :womans_hat: Coupling, Half Coupling and Cap
 
-![SW-Fitting-2](.vitepress/images/cplg-sw.png)
+![SW-Fitting-2](../.vitepress/images/cplg-sw.png)
 
 ::: tip Note 
    All unit dimension are millimeter in accordance with ASME B16.11.
@@ -46,9 +46,9 @@ The fitting dimension are described in accordance with ASME B16.11, that consist
 
 <hr />
 
-## Reducing Tee and Reducer
+## :trident: Reducing Tee and Reducer
 
-![SW-Fitting-3](.vitepress/images/redtee-sw.png)
+![SW-Fitting-3](../.vitepress/images/redtee-sw.png)
 
 ::: tip Note 
    All unit dimension are millimeter in accordance with ASME B16.11.

@@ -1,14 +1,20 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+}
+
 h2 {
     margin-top: 4rem;
 }
 table {
-    font-size: smaller;
     overflow-x: visible;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
 }
-tbody > tr:hover {background-color: rgb(0, 255, 115);}
-/* tbody > td {
-    word-wrap: break-word;
-} */
+tbody > tr:hover {background-color: rgb(204, 204, 255);}
+td {
+    text-align: center;
+}
 .table-of-contents {
     margin-left: 2rem;
     margin-bottom: 4rem;

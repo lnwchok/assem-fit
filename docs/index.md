@@ -3,7 +3,7 @@ title: Piping Component
 ---
 
 # Pipe
-Pipe dimension is described the outside diameter (OD), thickness and unit weight (wt) in accordance with ASME and JIS standard.
+Pipe dimension is described the outside diameter (`OD`), thickness and unit weight (`wt`) in accordance with ASME and JIS standard.
 
 ![Pipe Drawing](.vitepress/images/pipe.png)
 
@@ -20,18 +20,18 @@ Pipe dimension is described the outside diameter (OD), thickness and unit weight
 
 <xlsx-reader TableName="PipeCompare" Header="| NPS |ASTM < wta | JIS <  wtj |"/>
 
-## Carbon Pipe - ASME Standard 📗
+## 📗 ASME CS Pipe
 In accordance with ASTM B36.10M Welded and Seamless Wrought Steel Pipe
 
 ::: tip Note
-- OD = Outside Diameter (mm).
+- `OD` = Outside Diameter (mm).
 - Plain text = Thickness (mm), _Italic text_ = Unit weight (kg/m).
 - Unit weight are calculated based on CS material (density = 7850 kg/m<sup>3</sup>).
 :::
 
 <xlsx-reader TableName="PipeASMECS" Header="|NPS | OD | SCH5 < wt5 | SCH10 < wt10 | SCH20 < wt20 | SCH30 < wt30 | SCH40 < wt40 | SCH60 < wt60 | SCH80 < wt80 | SCH100 < wt100 | SCH120 < wt120 | SCH140 < wt140 | SCH160 < wt160 | STD < wtSTD | XS < wtXS | XXS < wtXXS | NPS|" />
 
-## Stainless Pipe - ASME Standard 📗
+## 📗 ASME SS Pipe
 In accordance with ASTM B36.19M Stainless Steel Pipe
 
 ::: tip Note
@@ -42,12 +42,12 @@ In accordance with ASTM B36.19M Stainless Steel Pipe
 
 <xlsx-reader TableName="PipeASMESS" Header="|NPS | OD | SCH5S < wt5S | SCH10S < wt10S | SCH40S < wt40S | SCH80S < wt80S |" />
 
-## Carbon Pipe - JIS Standard 📙
+## 📙 JIS CS Pipe
 In accordance with JIS G3452 Carbon steel pipes for ordinary piping
 
 <xlsx-reader TableName="PipeJISCS" Header="|NPS | OD | thkJ < wtJ|"/>
 
-## Stainless Pipe - JIS Standard 📙
+## 📙 JIS SS Pipe
 In accordance with JIS G3459 Stainless steel pipes
 
 ::: tip Note

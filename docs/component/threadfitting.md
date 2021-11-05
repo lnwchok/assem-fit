@@ -8,9 +8,9 @@ The fitting dimension are described in accordance with ASME B16.11, that consist
 
 [[toc]]
 
-## Elbow, Tee, Coupling, Half Coupling and Cap
+## :bow_and_arrow: Elbow, Tee, Coupling, Half Coupling and Cap 
 
-![THD-Fitting-1](.vitepress/images/elb-thd.png)
+![THD-Fitting-1](../.vitepress/images/elb-thd.png)
 
 ::: tip Note 
    - All unit dimension are millimeter in accordance with ASME B16.11.
@@ -24,9 +24,9 @@ The fitting dimension are described in accordance with ASME B16.11, that consist
 **CLASS 6000**
 <xlsx-reader TableName="TH_1_6000" />
 
-## Reducing Tee and Reducer
+## :trident: Reducing Tee and Reducer
 
-![THD-Fitting-2](.vitepress/images/redtee-thd.png)
+![THD-Fitting-2](../.vitepress/images/redtee-thd.png)
 
 ::: tip Note 
    - All unit dimension are millimeter in accordance with ASME B16.11.
