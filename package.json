@@ -3,7 +3,7 @@
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs",
-    "copy-public" : "cp -v docs/.vitepress/public/* docs/.vitepress/dist/"
+    "copy-public": "cp -v docs/.vitepress/public/* docs/.vitepress/dist/"
   },
   "devDependencies": {
     "vitepress": "^0.19.1"

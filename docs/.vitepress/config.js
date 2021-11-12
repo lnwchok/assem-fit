@@ -10,5 +10,6 @@ module.exports = {
       repo: 'lnwchok/assem-fit',
       sidebar,
       nav
-   }
+   },
+
 }

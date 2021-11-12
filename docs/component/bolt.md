@@ -6,7 +6,7 @@ title: Piping Component
 
 ## Bolt lengths calculation
 
-Reference from Appendix C - ASME B16.5
+Reference formular from Appendix C - ASME B16.5
 
 ![Bolt](../.vitepress/images/bolt.png)
 

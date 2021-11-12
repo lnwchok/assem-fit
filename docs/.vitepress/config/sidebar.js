@@ -23,7 +23,17 @@ const AssemblyPageSidebar = [
    }
 ]
 
+const ExtrasPageSidebar =[
+   {
+      text: 'Extra Contents',
+      children : [
+         { text: 'ASME Material', link: '/extras/asme-mat-list' }
+      ]
+   }
+]
+
 exports.sidebar = {
+   '/extras/' : ExtrasPageSidebar,
    '/assembly/': AssemblyPageSidebar,
    '/component/': ComponentPageSidebar,
    '/': ComponentPageSidebar
